@@ -71,21 +71,33 @@ The Consortium does not direct the activities of the RAIDA Administrator, provid
 
 ### 12. RAIDA Administrator's Duties
 The RAIDA Administrator has a duty to meet the needs of the CloudCoin Community. The following duties are assumed:
-● The RAIDA Administrator must maintain service records with central services’ Directory (IP Address,
+
+* The RAIDA Administrator must maintain service records with central services’ Directory (IP Address,
 domain name, file extensions that your RAIDA uses (such as php or aspx) so that the CloudCoin
 Community can use the RAIDA Administrator’s RAIDA.
-● The RAIDA Administrator must perform testing to ensure their services are working: Echo, Test, Detect, Get Ticket, Fix, Hints and services that may be added in the future.
-● Testing to ensure that the RAIDA Administrator’s RAIDA can contact its trusted servers and that servers that trust it can connect to it to get fixit hints.
-● Changing the RAIDAs trusted server list when one of your trusted servers is known to become
+
+* The RAIDA Administrator must perform testing to ensure their services are working: Echo, Test, Detect, Get Ticket, Fix, Hints and services that may be added in the future.
+
+* Testing to ensure that the RAIDA Administrator’s RAIDA can contact its trusted servers and that servers that trust it can connect to it to get fixit hints.
+
+* Changing the RAIDAs trusted server list when one of your trusted servers is known to become
 compromised.
-● Fix any RAIDA vulnerabilities.
-● To be a friend and fellow to CloudCoin Consortium members.
-● To warn of dangers, advice on tips, share experience and promote the value of CloudCoin.
-● Participate in Doubling including the cloning, recruitment, mentoring and sheparding processes.
-● If terminated, hand over data in a professional manner.
-● Help central services restore lost CloudCoins by running monthly queries against the AN table to find CloudCoins that have not been authenticated for years.
-● Ensure minion servers are running as required (Backup, standby and secondary servers).
-● Ensure your software including operating systems are licensed as needed by the rules of preferable
+
+* Fix any RAIDA vulnerabilities.
+
+* To be a friend and fellow to CloudCoin Consortium members.
+
+* To warn of dangers, advice on tips, share experience and promote the value of CloudCoin.
+
+* Participate in Doubling including the cloning, recruitment, mentoring and sheparding processes.
+
+* If terminated, hand over data in a professional manner.
+
+* Help central services restore lost CloudCoins by running monthly queries against the AN table to find CloudCoins that have not been authenticated for years.
+
+* Ensure minion servers are running as required (Backup, standby and secondary servers).
+
+* Ensure your software including operating systems are licensed as needed by the rules of preferable
 behavior and common respect for intellectual property.
 
 ### 12. Trusted Servers
@@ -124,34 +136,34 @@ Admins at least two weeks in the future from the email's delivery. After this me
 When a vacancy comes open, this vacancy shall be announced to all RAIDA Administrators by the first RAIDA Admin who notices that there is a vacancy. Upon hearing of the vacancy, RAIDA Admins may propose a person who should fill this vacancy. The person who is proposed must have the technical means of a system administrator, pass a philosophical exam showing that they believe in liberty and agree to the RAIDA Constitution.
 There shall be a proposal period that shall stay open until a person is proposed. Once the first person is proposed, there will be a two week waiting period in which other people can be proposed. If there is only one person who is proposed after the two week period, then that person shall become the RAIDA Administrator for life. If there are more than two candidates, the RAIDA Administrators shall vote. The election shall occur two weeks after the proposal period has ended. RAIDA Admins may vote by making their decision public. The person who receives the most votes becomes the new RAIDA Admin for life. If there is a tie vote, the first candidate to be proposed wins.
 Examples of why a RAIDA Admin may be terminated:
-● The RAIDA Administrators dies or becomes incapacitated.
-● The RAIDA Administrator’s RAIDA is down for more than seven days in a row.
-● The RAIDA Administrator’s RAIDA is constantly the slowest RAIDA taking more milliseconds to process
+* The RAIDA Administrators dies or becomes incapacitated.
+* The RAIDA Administrator’s RAIDA is down for more than seven days in a row.
+* The RAIDA Administrator’s RAIDA is constantly the slowest RAIDA taking more milliseconds to process
 detection requests than other RAIDAs.
-● The RAIDA Administrator’s RAIDA is confiscated or stolen.
-● The RAIDA Administrator’s RAIDA’s data is destroyed, hacked or compromised.
-● The RAIDA Administrator embarrasses the CloudCoin Consortium.
-● The RAIDA Administrator says derogatory things about CloudCoin to the public, including specifying
+* The RAIDA Administrator’s RAIDA is confiscated or stolen.
+* The RAIDA Administrator’s RAIDA’s data is destroyed, hacked or compromised.
+* The RAIDA Administrator embarrasses the CloudCoin Consortium.
+* The RAIDA Administrator says derogatory things about CloudCoin to the public, including specifying
 defects, deficiencies or flaws. Or the RAIDA Administrator advises the public not to use CloudCoins.
-● The RAIDA Administrator expresses a desire to update the values in the AN database without the
+* The RAIDA Administrator expresses a desire to update the values in the AN database without the
 consent or knowledge of the owners of the CloudCoins affected (except for lost coins – coins that have
 not been authenticated for over five years).
-● The RAIDA Administrator expresses a desire to tax or aid governments in taxing CloudCoins. Note that
+* The RAIDA Administrator expresses a desire to tax or aid governments in taxing CloudCoins. Note that
 a tax includes any kind of so-called fees or charges or duties or taking or dues. Except for
 lost-coin-recover which the RAIDA Administrators (Collectively through the CloudCoin Consortium) may
 charge a recovery fee.
-● The RAIDA Administrator expresses sympathy for Socialism or Communism publicly or privately to
+* The RAIDA Administrator expresses sympathy for Socialism or Communism publicly or privately to
 other Consortium members.
-● The RAIDA Administrator expresses sympathy for Terrorists or are followers of people who have
+* The RAIDA Administrator expresses sympathy for Terrorists or are followers of people who have
 preached terrorism.
-● The RAIDA Administrator is involved in activity considered as unpreferable behavior such as rape,
+* The RAIDA Administrator is involved in activity considered as unpreferable behavior such as rape,
 slavery, murder, theft, child abuse, suppression of natural rights or unpopular behavior such as drug
 trafficking, gun running, prostitution and gambling.
-● The RAIDA Administrator threatens to bring down or slow their RAIDA unless their demands are met.
-● The RAIDA Administrator collaborates with entities wishing to undermine the value of CloudCoin.
-● The RAIDA Administrator undermines the value of CloudCoin in a way that must be prevented in the
+* The RAIDA Administrator threatens to bring down or slow their RAIDA unless their demands are met.
+* The RAIDA Administrator collaborates with entities wishing to undermine the value of CloudCoin.
+* The RAIDA Administrator undermines the value of CloudCoin in a way that must be prevented in the
 future to ensure CloudCoin's value.
-● The RAIDA Administrator attempts to control more than two RAIDA servers.
+* The RAIDA Administrator attempts to control more than two RAIDA servers.
 
 ### 19. TERMINATION AFTERMATH
 Upon termination, the RAIDA Administrator may receive a final month's compensation if they export their data to central services over their data, delete all data afterwards and turn over any contact information for minions to help the continued value of CloudCoins.
